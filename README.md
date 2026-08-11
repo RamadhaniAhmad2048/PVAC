@@ -109,4 +109,4 @@ Internal functions communicate outcomes through numeric codes:
 
 ## Version
 
-`3.0.0`
+`1.0.0`
